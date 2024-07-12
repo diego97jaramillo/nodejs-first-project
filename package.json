@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-first-project",
+  "version": "1.0.0",
+  "description": "taller 1 node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diego jaramillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
