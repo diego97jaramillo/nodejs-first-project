@@ -1,4 +1,4 @@
-Acá tienes las respuestas del punto 8.
+Acá tienes las respuestas del punto 8 y en el postman_collection.json esta el postman exportado
 
 1. ¿Qué es el filesystem (fs) en Node.js y para qué se utiliza?
 es un modulo que esta diseñado especificamente para la manipulacion de archivos, por eso mediante el filesystem es que podemos leer y escribir archivos
